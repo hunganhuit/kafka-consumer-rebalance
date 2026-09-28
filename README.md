@@ -172,7 +172,7 @@ real problems that page you at 2am across Kafka, Redis, PostgreSQL, Spring Boot,
 and Kubernetes — every one with a bad implementation, a production
 implementation, runnable code, and tests.
 
-### **[Get the kit — $9, one-time. Lifetime access to V1.x updates.](REPLACE_WITH_LANDING_PAGE_URL)**
+### **[Get the kit — $9, one-time. Lifetime access to V1.x updates.](https://hunganhuit.github.io/survival-kit-landing/)**
 
 Stop debugging Spring Boot production problems from scratch.
 
